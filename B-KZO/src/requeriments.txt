@@ -1,0 +1,10 @@
+asyncio
+unicodedata
+discord
+discord.ext
+datetime
+aiohttp
+urllib
+re
+matplotlib.pyplot
+os
